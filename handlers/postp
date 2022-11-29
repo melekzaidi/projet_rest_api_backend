@@ -1,0 +1,6 @@
+const {  postproduct } = require('./post_products')
+
+module.exports = {
+    postproduct : postproduct,
+}
+
